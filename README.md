@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 About This Profile
 
-<!--
-**AjayBarot7035/AjayBarot7035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my current and active GitHub account.
 
-Here are some ideas to get you started:
+Due to permanent loss of access caused by a 2FA device issue, I can no longer access my previous GitHub account:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Previous GitHub: [https://github.com/AjayBarot](https://github.com/AjayBarot)
+🔗 Current GitHub: [https://github.com/AjayBarot7035](https://github.com/AjayBarot7035)
+
+All new work, contributions, and projects will be maintained on this account going forward.
+
+If you are reviewing my profile for professional or collaboration purposes and need verification of past work, feel free to reference the previous profile or contact me directly.
+
+Thank you for your understanding.
